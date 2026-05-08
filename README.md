@@ -158,6 +158,6 @@ The best-performing model is saved and used in the Streamlit dashboard.
 
 ## Author
 
-Daniel Mezrahi
+Jonathan Mezrahi
 
 Computer Science student interested in AI/ML, sports analytics, finance, and software development.
